@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corona virus</string>
+    <string name="title_activity_bottom_navigation">Corona virus</string>
+    <string name="title_home">Cases</string>
+    <string name="title_dashboard">News</string>
+    <string name="title_notifications">Map</string>
+</resources>
